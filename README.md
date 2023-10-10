@@ -1,10 +1,5 @@
 # Hospital Management System
-Hospital Management System using MySQL, Php and Bootstrap
-
-
-Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watch?v=W2XGSM5i9P8)
-
-Live Demo : [Hospital Management System - 000webhost by Kishan](https://kishan0725.000webhostapp.com)
+Hospital Management System using MySQL, Php and Bootstrapp.
 
 ## Need to work on:
 
@@ -199,8 +194,3 @@ This module allows admin to perform five major operations:
 &nbsp; &nbsp; &nbsp; Admin can also delete the doctors from the system. This let admin to have more control over the system.
 
 ![image](https://user-images.githubusercontent.com/36665975/75170650-6d3dfa80-5750-11ea-8f05-455c7d704217.png)
-  
-
-
-
-
